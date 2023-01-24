@@ -1,0 +1,32 @@
+.summary {
+	text-align: start;
+	width: 30vw;
+	height: 100%;
+}
+.card-body {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.align-opposite-sides {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 20px;
+	align-items: center;
+}
+
+.card-text {
+	font-size: 17px;
+	margin: 0;
+}
+
+.bigger-card-text {
+	font-size: 20px;
+}
+
+.btn-primary {
+	margin: 20px 0;
+	width: 100%;
+	height: 8vh;
+	font-weight: 400;
+}
